@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9465b784bcda1604a82ce4aa2b50f38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3386989035374366399
+    second: Ryu_22_0
+  - first:
+      213: 4951163439529415040
+    second: Ryu_22_1
+  - first:
+      213: -6324688788171942183
+    second: Ryu_22_2
+  - first:
+      213: 1587210270663067594
+    second: Ryu_22_3
+  - first:
+      213: -3664879520604679853
+    second: Ryu_22_4
+  - first:
+      213: -8844140313706339413
+    second: Ryu_22_5
+  - first:
+      213: -2454335837376403529
+    second: Ryu_22_6
+  - first:
+      213: -328875130590821888
+    second: Ryu_22_7
+  - first:
+      213: -7467645318483546658
+    second: Ryu_22_8
+  - first:
+      213: -8159733029036046657
+    second: Ryu_22_9
+  - first:
+      213: -7148708001772219204
+    second: Ryu_22_10
+  - first:
+      213: -1978884495843587540
+    second: Ryu_22_11
+  - first:
+      213: -2637809551765331144
+    second: Ryu_22_12
+  - first:
+      213: 4455711311644577433
+    second: Ryu_22_13
+  - first:
+      213: -5470454418838016929
+    second: Ryu_22_14
+  - first:
+      213: 3113099664211620163
+    second: Ryu_22_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryu_22_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 155
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec1a72590010f20800000000000000
+      internalID: 3386989035374366399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 139
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815d067ae016b440800000000000000
+      internalID: 4951163439529415040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69d1a8e013a38a0800000000000000
+      internalID: -6324688788171942183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac749bee457e60610800000000000000
+      internalID: 1587210270663067594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 146
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35111cd4e7bb32dc0800000000000000
+      internalID: -3664879520604679853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 130
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba362d13e3d434580800000000000000
+      internalID: -8844140313706339413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 141
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b72bad3f8270fdd0800000000000000
+      internalID: -2454335837376403529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 127
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028ca9afc99f6bf0800000000000000
+      internalID: -328875130590821888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edded2be5289d5890800000000000000
+      internalID: -7467645318483546658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c84eca0ec2ce80800000000000000
+      internalID: -8159733029036046657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 113
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4df57a2ffaacc90800000000000000
+      internalID: -7148708001772219204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a07bd19079984e0800000000000000
+      internalID: -1978884495843587540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 103
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83325e9303e946bd0800000000000000
+      internalID: -2637809551765331144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 106
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec340a4ddd5dd30800000000000000
+      internalID: 4455711311644577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 94
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca13590ba0514b0800000000000000
+      internalID: -5470454418838016929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_22_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b8b396a3f33b20800000000000000
+      internalID: 3113099664211620163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ryu_22_0: 3386989035374366399
+      Ryu_22_1: 4951163439529415040
+      Ryu_22_10: -7148708001772219204
+      Ryu_22_11: -1978884495843587540
+      Ryu_22_12: -2637809551765331144
+      Ryu_22_13: 4455711311644577433
+      Ryu_22_14: -5470454418838016929
+      Ryu_22_15: 3113099664211620163
+      Ryu_22_2: -6324688788171942183
+      Ryu_22_3: 1587210270663067594
+      Ryu_22_4: -3664879520604679853
+      Ryu_22_5: -8844140313706339413
+      Ryu_22_6: -2454335837376403529
+      Ryu_22_7: -328875130590821888
+      Ryu_22_8: -7467645318483546658
+      Ryu_22_9: -8159733029036046657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
